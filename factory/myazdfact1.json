@@ -1,0 +1,15 @@
+{
+	"name": "myazdfact1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bba7d4a8-4912-4829-8e5d-5f617fd589bf",
+		"tenantId": "eefaaac3-b738-4d4b-a50a-05f010a790c4"
+	}
+}
